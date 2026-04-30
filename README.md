@@ -400,8 +400,8 @@ Navigate to `http://localhost:8501` in your browser.
 **Skanda BN**  
 ML Engineer / Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/skanda-bn/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/SkandaBN)
 [![Email](https://img.shields.io/badge/Email-sbn39008%40gmail.com-red?logo=gmail)](mailto:sbn39008@gmail.com)
 
 ---
